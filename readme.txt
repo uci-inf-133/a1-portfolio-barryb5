@@ -25,6 +25,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 (a) Basic features
 At least one image
 Link to external page (github)
+Semantic HTML tags like aside or footer
 
 (b) CSS features
 Padding and Margins
@@ -47,10 +48,12 @@ no
 https://stackoverflow.com/questions/31554574/html-padding-style
 https://fonts.google.com/knowledge/choosing_type/adding_fonts_to_google_docs
 https://www.reddit.com/r/learnprogramming/comments/v2s697/adding_external_css_file_to_html_doc/
+https://www.w3schools.com/tags/tag_footer.asp
+https://getbootstrap.com/docs/3.4/css/
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 n/a
 
 
 7. Is there anything special we need to know in order to run your code?
-should run fine if you just open the browser in file
+Runs fine and works if you just open the browser in file
