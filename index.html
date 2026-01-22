@@ -44,9 +44,12 @@ EMAIL: bbalasin@uci.edu
   <footer>
     <h3>Contact Me</h3>
     <form action="mailto:bbalasin@uci.edu" method="GET" enctype="text/plain" class="contact-form">
-      <input type="text" name="name" placeholder="Your Name" required>
-      <input type="email" name="email" placeholder="Your Email" required>
-      <textarea name="body" placeholder="Your Message" rows="4"></textarea>
+      <label for="name-field">Full Name:</label>
+      <input type="text" id="name-field" name="name" placeholder="Your Name" required>
+      <label for="user-email">Email Address</label>
+      <input type="email" id="user-email" name="email" placeholder="Your Email" required>
+      <label for="message-box">Your Message:</label>
+      <textarea id="message-box" name="body" placeholder="Your Message" rows="4"></textarea>
       <button type="submit">Send Message</button>
     </form>
   </footer>
